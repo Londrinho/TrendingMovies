@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrendingMovies</string>
+    <string name="original_title">Original Title</string>
+    <string name="overview">Overview</string>
+    <string name="vote_count">Vote Count Out of 10:</string>
+    <string name="trending_movies">TRENDING MOVIES</string>
+
+</resources>
